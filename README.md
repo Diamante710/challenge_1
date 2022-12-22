@@ -7,4 +7,4 @@
 
 ## Acceptance Criteria
 
--It is complete when
+- It is complete when
