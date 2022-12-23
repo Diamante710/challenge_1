@@ -14,8 +14,4 @@
 
 ## Acceptance Criteria
 
-<<<<<<< HEAD
-- It is complete when
-=======
 - The task is complete when the webpage meets accessibility standards with semantic and logically structured HTML elemtents. Must be able to view alt attributes, heading attributes and the title elemnt. These must fall in sequential order and be descriptive.
->>>>>>> 825b21a1c4ce0b1401e83bdcf8b6cebd73369d0c
