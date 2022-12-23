@@ -65,11 +65,7 @@ p {
     margin-left: 25px;
 }
 
-<<<<<<< HEAD
-main {
-=======
 article {
->>>>>>> 825b21a1c4ce0b1401e83bdcf8b6cebd73369d0c
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -102,11 +98,7 @@ aside {
     max-width: 150px;
 }
 
-<<<<<<< HEAD
-main section {
-=======
 article section {
->>>>>>> 825b21a1c4ce0b1401e83bdcf8b6cebd73369d0c
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,20 +107,11 @@ article section {
     color: #ffffff;
 }
 
-<<<<<<< HEAD
-
-main img {
-    max-height: 200px;
-}
-
-h2 {
-=======
 article img {
     max-height: 200px;
 }
 
 article h2 {
->>>>>>> 825b21a1c4ce0b1401e83bdcf8b6cebd73369d0c
     margin-bottom: 20px;
     font-size: 36px;
 }
