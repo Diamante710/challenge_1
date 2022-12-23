@@ -1,4 +1,4 @@
-# challenge_1
+# Horiseon Challenge
 
 ## Task
 
